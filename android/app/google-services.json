@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514681212388",
+    "project_id": "production-truleague-app-bb3d1",
+    "storage_bucket": "production-truleague-app-bb3d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514681212388:android:b53aaf0d0f3ad349308bf1",
+        "android_client_info": {
+          "package_name": "com.truleague"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDxRjdNWDPzr8flDZ3j_rk_8yfaJ9JhCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
